@@ -1,3 +1,5 @@
+# https://www.syslog-ng.com/community/b/blog/posts/installing-the-latest-syslog-ng-on-ubuntu-and-other-deb-distributions
+# https://grafana.com/blog/2021/03/23/how-i-fell-in-love-with-logs-thanks-to-grafana-loki/
 ---
 - name: Install apt-key
   ansible.builtin.apt_key:
